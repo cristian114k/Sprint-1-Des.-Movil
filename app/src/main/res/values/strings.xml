@@ -7,4 +7,14 @@
     <string name="correo">Correo</string>
     <string name="nombre">Nombre</string>
     <string name="usuario">Usuario</string>
+    <string name="by_cristian_bar_n">©By Cristian Barón</string>
+    <string name="correo_view2">Correo:</string>
+    <string name="contrase_a_view2">Contraseña:</string>
+    <string name="nombreview2">Nombre:</string>
+    <string name="apellido_view2">Apellido:</string>
+    <string name="usuario_view2">Usuario:</string>
+    <string name="datos_registrados_view2">DATOS REGISTRADOS</string>
+    <string name="sus_datos_son_view2">Sus datos son:</string>
+    <string name="by_cristian_bar_n_view2">©By Cristian Barón</string>
+    <string name="todo">TODO</string>
 </resources>
